@@ -18,6 +18,7 @@ public class App {
 //		String mo = "DC4*294776304290100";
 //	System.out.println(getCpId(mo));
 		App app = new App();
+		System.out.println("╡Бйтр╩об");
 	}
 	
 	
